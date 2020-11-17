@@ -9,7 +9,6 @@ Simple app for  Instagram Photo downloader
 
 <img src="assets/screen1.PNG" alt="drawing" width="400"/> <br>
 
-<img src="assets/screen1.PNG" alt="drawing" width="400"/>
 <img src="assets/screen2.png" alt="drawing" width="400"/>
   </p>
 
